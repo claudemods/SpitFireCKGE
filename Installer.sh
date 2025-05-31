@@ -61,12 +61,12 @@ fi
 
 # DD the image to first partition
 echo -e "${CYAN}Writing image to ${DRIVE_PATH}1...${NC}"
-sudo dd if="$IMG_PATH" of="${DRIVE_PATH}1" bs=4M status=progress
+sudo dd if="$IMG_PATH" of="${DRIVE_PATH}1" bs=4M conv=sync,noerror status=progress
 echo -e "${CYAN}First system write complete.${NC}"
 
 # DD the image to second partition
 echo -e "${CYAN}Writing image to ${DRIVE_PATH}2...${NC}"
-sudo dd if="$IMG_PATH" of="${DRIVE_PATH}2" bs=4M status=progress
+sudo dd if="$IMG_PATH" of="${DRIVE_PATH}2" bs=4M conv=sync,noerror status=progress
 echo -e "${CYAN}Second system write complete.${NC}"
 
 # First system setup
