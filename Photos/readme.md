@@ -9,7 +9,8 @@ new desktop photo and grub and sounds
 ![Screenshot_archlinux_2025-06-01_17:53:35](https://github.com/user-attachments/assets/aab02b88-506f-4ae8-9c13-ab1aee0cebb4)
 
 
-![Screenshot_archlinux_2025-06-01_17:51:39](https://github.com/user-attachments/assets/5185e939-33eb-4048-b1e6-0304fec2e16b)
+![Screenshot_archlinux_2025-06-01_18:26:45](https://github.com/user-attachments/assets/7707a98d-cbd5-44b6-bf16-2e77865d83ef)
+
 
 
 
