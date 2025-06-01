@@ -2,4 +2,7 @@ new drive setup first set of partitions will be a 2.5gb recovery i will update p
 
 ![Screenshot_20250601_155310](https://github.com/user-attachments/assets/e8a61d50-68de-4ff5-bd81-bee84bed094c)
 
+
+picture set to change more being added
+
 ![Screenshot_archlinux_2025-06-01_17:36:54](https://github.com/user-attachments/assets/fe9b24fc-500d-496e-ac83-cffd78ac62e1)
