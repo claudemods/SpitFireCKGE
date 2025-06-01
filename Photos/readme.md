@@ -6,7 +6,7 @@ new drive setup first set of partitions will be a 2.5gb recovery i will update p
 
 new desktop photo and grub and sounds
 
-![Screenshot_archlinux_2025-06-01_17:53:35](https://github.com/user-attachments/assets/c5e50d32-8057-46b3-8564-34703769d2c8)
+![Screenshot_archlinux_2025-06-01_17:53:35](https://github.com/user-attachments/assets/aab02b88-506f-4ae8-9c13-ab1aee0cebb4)
 
 
 ![Screenshot_archlinux_2025-06-01_17:51:39](https://github.com/user-attachments/assets/5185e939-33eb-4048-b1e6-0304fec2e16b)
