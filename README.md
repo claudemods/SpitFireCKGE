@@ -14,12 +14,12 @@
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/OS-Arch-0000FF?style=for-the-badge&logo=linux" /></a>
 <a href="https://cachyos.org/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-CachyOS-00FFFF?style=for-the-badge&logo=CachyOS" /></a>
 
-[![Version](https://img.shields.io/github/v/release/claudemods/SpitFireCKGE?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/SpitFireCKGE/releases/tag/CKGE-V1.04.2)
+[![Version](https://img.shields.io/github/v/release/claudemods/SpitFireCKGE?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/SpitFireCKGE/releases/tag/CKGE-V1.0)
 
 ##  [Click Here For Photos](https://github.com/claudemods/SpitFireCKGE/tree/main/Photos)
 
 
-## Apex CachyOS Kde Gamer's Edition! 🎮
+## SpitFire CachyOS Kde Gamer's Edition! 🎮
 **Unofficial Custom Arch Distribution Inspired By Windows Built On Blazingly Fast CachyOS! 🚀**
  
  
@@ -32,7 +32,7 @@
 
 ## Key Features! 🛡️📦 
 
-  **1) Btrfs Zstd Compression Level 15**
+  **1) Btrfs Zstd Compression Level 22**
 
   **2) Brave Browser**
   
@@ -69,7 +69,7 @@ simply for now dd to ssd/hdd
 </div>
 
 </div>
-Example dd command: sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
+Example dd command: sudo dd if=/home/spitfire/Downloads/backup_20250518.img of=/dev/sdb bs=4M status=progress && sync
 <div align="center">
 
 </div>
