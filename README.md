@@ -7,6 +7,7 @@
 
  
 ##  [All .img.xz Created With BTRFS SYSTEM CLONER](https://github.com/claudemods/btrfssystemcloner)
+##  [All .iso's Created With claudemods img iso creator](https://github.com/claudemods/claudemods-multi-iso-konsole-script)
 
 <div align="center">
 
@@ -32,7 +33,7 @@
 
 ## Key Features! 🛡️📦 
 
-  **1) Btrfs Zstd Compression Level 22**
+  **1) Btrfs Zstd Compression Level 22/Iso is ext4 only**
 
   **2) Brave Browser**
   
